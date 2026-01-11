@@ -4,11 +4,9 @@
 
 # EasyCAT
 
-[English](#english) | [中文](#chinese)
+[English](#english) | [中文](#中文)
 
-`<a name="english"></a>`
-
-## 🇬🇧 English
+## English
 
 **EasyCAT** aims to provide **simple**, **low-cost**, **easy-to-use** EtherCAT development boards designed for **rapid development**.
 
@@ -45,9 +43,7 @@ MicroCAT is a miniaturized version of the PiCAT, designed for compact applicatio
 
 ---
 
-`<a name="chinese"></a>`
-
-## 🇨🇳 中文
+## 中文
 
 **EasyCAT** 旨在提供**简单的**、**低成本的**、**易用的**、便于**快速开发**的 EtherCAT 开发板。
 
