@@ -16,6 +16,10 @@ Hardware technical support is provided by **HyperBot Robotics** and **Inpulse El
 
 #### 1. PiCAT
 
+<div align="center">
+  <img src="PiCAT_AX58100/picat.png" width="600" alt="PiCAT Board">
+</div>
+
 PiCAT is an EtherCAT baseboard designed to match the form factor of the Raspberry Pi and other single-board computers.
 
 * **Form Factor**: Matches Raspberry Pi size.
@@ -39,7 +43,8 @@ MicroCAT is a miniaturized version of the PiCAT, designed for compact applicatio
 * `STM32_CORE/` - Firmware and design files for the removable STM32 core module.
 
 ### Maintainer
-*   **Email**: fuhua.jia [at] outlook [dot] com
+
+* **Email**: fuhua.jia [at] outlook [dot] com
 
 ---
 
@@ -52,6 +57,10 @@ MicroCAT is a miniaturized version of the PiCAT, designed for compact applicatio
 ### 主要产品
 
 #### 1. PiCAT
+
+<div align="center">
+  <img src="PiCAT_AX58100/picat.png" width="600" alt="PiCAT 开发板">
+</div>
 
 PiCAT 是一款 EtherCAT 底板，设计大小与树莓派（Raspberry Pi）等单板机一致。
 
@@ -76,4 +85,5 @@ MicroCAT 是 PiCAT 的微型化版本，专为紧凑型应用设计。
 * `STM32_CORE/` - 可更换 STM32 核心模块的固件与设计文件。
 
 ### 维护人
-*   **邮箱**: fuhua.jia [at] outlook [dot] com
+
+* **邮箱**: fuhua.jia [at] outlook [dot] com
